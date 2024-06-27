@@ -83,7 +83,7 @@ export default function Home() {
               {/* -------section 1------- */}
               <div className='absolute inset-0 bg-noise'>
                 <div className='pt-10 w-full flex justify-between md:relative md:flex-col-reverse'>
-                  <div className=' text-white w-full p-10 flex flex-col gap-6 sm:gap-3'>
+                  <div className=' text-gray-300 w-full p-10 flex flex-col gap-6 sm:gap-3'>
                     <h2 className=' text-6xl md:text-lg  leading-tight font-extrabold'>
                       The Platform Which Really Help Users To Do Something
                       Better
